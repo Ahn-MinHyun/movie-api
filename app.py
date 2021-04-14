@@ -9,6 +9,7 @@ from flask_jwt_extended import JWTManager
 
 import mysql.connector 
 
+# 시작
 app = Flask(__name__)
 
 
